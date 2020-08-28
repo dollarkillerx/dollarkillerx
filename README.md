@@ -1,5 +1,4 @@
 ### Hi there 👋
-[![gmail](https://img.shields.io/badge/Gmail-juzi201314-DC143C?style=flat-square&logo=gmail)](mailto:adapawang@gmail.com)
 <!--
 **dollarkillerx/dollarkillerx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
