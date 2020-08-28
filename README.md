@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![gmail](https://img.shields.io/badge/Gmail-juzi201314-DC143C?style=flat-square&logo=gmail)](mailto:adapawang@gmail.com)
 <!--
 **dollarkillerx/dollarkillerx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![juzi5201314 github stats](https://github-readme-stats.vercel.app/api?username=dollarkillerx&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![current year commits](https://github-readme-stats.vercel.app/api?username=dollarkillerx&count_private=true&show_icons=true&hide=stars,prs,issues,contribs&hide_title=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dollarkillerx)](https://github.com/anuraghazra/github-readme-stats)
