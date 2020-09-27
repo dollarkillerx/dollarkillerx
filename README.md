@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 
 
-<img src="https://github-profile-trophy.vercel.app/?username=dollarkillerx&theme=flat&column=5" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
+<img src="https://github-profile-trophy.vercel.app/?username=dollarkillerx&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
