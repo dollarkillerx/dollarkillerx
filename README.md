@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 [![dollarkillerx github stats](https://github-readme-stats.vercel.app/api?username=dollarkillerx&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
+<img src="https://github-profile-trophy.vercel.app/?username=dollarkillerx&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
