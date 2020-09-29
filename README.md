@@ -45,6 +45,7 @@ Languages I use: <br>
 ![Markdown](https://img.shields.io/badge/-Markdown-141414?style=flat&logo=markdown)
 ![Go](https://img.shields.io/badge/-Go-141414?style=flat&logo=go)
 ![RUST](https://img.shields.io/badge/-Rust-141414?style=flat&logo=rust)
+![Python](https://img.shields.io/badge/-Rust-141414?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-141414?style=flat&logo=postgresql)
 
 Tools & technologies I have worked with: <br>
@@ -57,7 +58,6 @@ Tools & technologies I have worked with: <br>
 ![MongoDB](https://img.shields.io/badge/-MongoDB-141414?style=flat&logo=mongodb)
 ![Vue](https://img.shields.io/badge/-Vue-141414?style=flat&logo=vue.js)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-141414?style=flat&logo=ubuntu)
-![Linux](https://img.shields.io/badge/-Linux-141414?style=flat&logo=linux)
 ![Docker](https://img.shields.io/badge/-Docker-141414?style=flat&logo=docker)
 ![K8s](https://img.shields.io/badge/-K8s-141414?style=flat&logo=k8s)
 ![Git](https://img.shields.io/badge/-Git-141414?style=flat&logo=git)
