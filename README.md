@@ -60,7 +60,6 @@ Tools & technologies I have worked with: <br>
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-141414?style=flat&logo=ubuntu)
 ![Docker](https://img.shields.io/badge/-Docker-141414?style=flat&logo=docker)
 ![K8s](https://img.shields.io/badge/-K8s-141414?style=flat&logo=k8s)
-![Git](https://img.shields.io/badge/-Git-141414?style=flat&logo=git)
 ![Intellij Idea](https://img.shields.io/badge/-Intellij%20Idea-141414?style=flat&logo=intellij-idea)
 
 
