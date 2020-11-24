@@ -41,12 +41,12 @@ Here are some ideas to get you started:
 - Deployement using K8s
 
 Languages I use: <br>
-![Bash](https://img.shields.io/badge/-Bash-141414?style=flat&logo=gnu-bash)
-![Markdown](https://img.shields.io/badge/-Markdown-141414?style=flat&logo=markdown)
 ![Go](https://img.shields.io/badge/-Go-141414?style=flat&logo=go)
 ![RUST](https://img.shields.io/badge/-Rust-141414?style=flat&logo=rust)
 ![Python](https://img.shields.io/badge/-Python-141414?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-141414?style=flat&logo=postgresql)
+![Bash](https://img.shields.io/badge/-Bash-141414?style=flat&logo=gnu-bash)
+![Markdown](https://img.shields.io/badge/-Markdown-141414?style=flat&logo=markdown)
 
 Tools & technologies I have worked with: <br>
 
