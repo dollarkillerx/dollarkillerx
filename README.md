@@ -31,6 +31,7 @@ Here are some ideas to get you started:
   <p align="center">
     <a href="https://github.com/dollarkillerx/"><img src="https://img.shields.io/github/followers/dollarkillerx?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
     <a href="https://github.com/dollarkillerx/"><img src="https://img.shields.io/github/stars/dollarkillerx?color=%234CC61E&label=GitHub%20Stars%20%3A"/></a>
+    <a href="https://github.com/dollarkillerx/"> <img src="https://komarev.com/ghpvc/?username=dollarkillerx" alt="dollarkillerx" /> </a>
   </p>
 </p>
 
