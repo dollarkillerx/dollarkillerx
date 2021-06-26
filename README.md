@@ -69,7 +69,8 @@ Tools & technologies I have worked with: <br>
 - <a href = "https://github.com/dollarkillerx/vodka">vodka</a> Lightweight golang microservices framework.
 
 ### Currently learning
-![CMU 15-445 Intro to Database Systems](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi)
-![CMU 15-721 Advanced Database Systems](https://www.youtube.com/playlist?list=PLSE8ODhjZXjasmrEd2_Yi1deeE360zv5O)
+[CMU 15-445 Intro to Database Systems](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi)
+
+[CMU 15-721 Advanced Database Systems](https://www.youtube.com/playlist?list=PLSE8ODhjZXjasmrEd2_Yi1deeE360zv5O)
 
 <img src="https://github-profile-trophy.vercel.app/?username=dollarkillerx&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
