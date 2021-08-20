@@ -64,13 +64,13 @@ Tools & technologies I have worked with: <br>
 ![K8s](https://img.shields.io/badge/-K8s-141414?style=flat&logo=k8s)
 ![Intellij Idea](https://img.shields.io/badge/-Intellij%20Idea-141414?style=flat&logo=intellij-idea)
 
-凡心所向，素履所往，生如逆旅，一苇以航。
+凡心所向，素履所往，生如逆旅，一葦以航。
 
-三月桃花，四月欢唱，两人一马，明日故乡。
+三月桃花，四月歡唱，兩人一馬，明日故鄉。
 
-流浪陌路，暖然绯凉，写意人生，相识一场。
+流浪陌路，暖然緋涼，寫意人生，相識一場。
 
-不关此世，不负己心，我自倾杯，且君随意。
+不關此世，不負己心，我自傾杯，且君隨意。
 
 
 ### 💻 Projects
