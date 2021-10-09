@@ -75,6 +75,7 @@ Tools & technologies I have worked with: <br>
 
 ### 💻 Projects
 - <a href = "https://github.com/dollarkillerx/vodka">vodka</a> Lightweight golang microservices framework.
+- <a href = "https://github.com/dollarkillerx/light">light</a> LightRPC Encrypted reliable components RPC.
 
 ### Currently learning
 [CMU 15-445 Intro to Database Systems](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi)
