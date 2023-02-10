@@ -43,6 +43,7 @@ Here are some ideas to get you started:
 
 Languages I use: <br>
 ![Go](https://img.shields.io/badge/-Go-141414?style=flat&logo=go)
+![Dart](https://img.shields.io/badge/-Dart-141414?style=flat&logo=Dart)
 ![RUST](https://img.shields.io/badge/-Rust-141414?style=flat&logo=rust)
 ![Python](https://img.shields.io/badge/-Python-141414?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-141414?style=flat&logo=postgresql)
@@ -58,6 +59,7 @@ Tools & technologies I have worked with: <br>
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-141414?style=flat&logo=elasticsearch)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-141414?style=flat&logo=mongodb)
 ![Typescript](https://img.shields.io/badge/-Typescript-141414?style=flat&logo=typescript)
+![Flutter](https://img.shields.io/badge/-Flutter-141414?style=flat&logo=Flutter)
 ![React](https://img.shields.io/badge/-React-141414?style=flat&logo=react)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-141414?style=flat&logo=ubuntu)
 ![Docker](https://img.shields.io/badge/-Docker-141414?style=flat&logo=docker)
