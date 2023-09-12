@@ -84,6 +84,6 @@ Tools & technologies I have worked with: <br>
 
 [CMU 15-721 Advanced Database Systems](https://www.youtube.com/playlist?list=PLSE8ODhjZXjasmrEd2_Yi1deeE360zv5O)
 
-まいにち　にほんご　べんきょうします
+毎日日本語を勉強しています
 
 <img src="https://github-profile-trophy.vercel.app/?username=dollarkillerx&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
