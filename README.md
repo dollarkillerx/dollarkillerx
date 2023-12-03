@@ -86,4 +86,6 @@ Tools & technologies I have worked with: <br>
 
 毎日日本語を勉強しています
 
+人の一生は重荷を負うて遠き道を行くがごとし
+
 <img src="https://github-profile-trophy.vercel.app/?username=dollarkillerx&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
