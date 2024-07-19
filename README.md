@@ -42,31 +42,31 @@ Here are some ideas to get you started:
 - Deployement using K8s
 
 Languages I use: <br>
-![Go](https://img.shields.io/badge/-Go-141414?style=flat&logo=go)
-![Dart](https://img.shields.io/badge/-Dart-141414?style=flat&logo=Dart)
-![Typescript](https://img.shields.io/badge/-Typescript-141414?style=flat&logo=typescript)
-![Python](https://img.shields.io/badge/-Python-141414?style=flat&logo=python)
+![Go](https://img.shields.io/badge/Golang-35495E?style=for-the-badge&logo=go&logoColor=4FC08D)
+![Dart](https://img.shields.io/badge/-Dart-141414?style=for-the-badge&logo=Dart)
+![Typescript](https://img.shields.io/badge/-Typescript-141414?style=for-the-badge&logo=typescript)
+![Python](https://img.shields.io/badge/-Python-141414?style=for-the-badge&logo=python)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-141414?style=flat&logo=postgresql)
-![RUST](https://img.shields.io/badge/-Rust-141414?style=flat&logo=rust)
-![Bash](https://img.shields.io/badge/-Bash-141414?style=flat&logo=gnu-bash)
-![Markdown](https://img.shields.io/badge/-Markdown-141414?style=flat&logo=markdown)
+![SQL](https://img.shields.io/badge/-SQL-141414?style=for-the-badge&logo=postgresql)
+![RUST](https://img.shields.io/badge/-Rust-141414?style=for-the-badge&logo=rust)
+![Bash](https://img.shields.io/badge/-Bash-141414?style=for-the-badge&logo=gnu-bash)
+![Markdown](https://img.shields.io/badge/-Markdown-141414?style=for-the-badge&logo=markdown)
 
 Tools & technologies I have worked with: <br>
 
-![Flutter](https://img.shields.io/badge/-Flutter-141414?style=flat&logo=Flutter)
+![Flutter](https://img.shields.io/badge/-Flutter-141414?style=for-the-badge&logo=Flutter)
 ![VUE](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![React](https://img.shields.io/badge/-React-141414?style=flat&logo=react)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-141414?style=flat&logo=ubuntu)
-![Docker](https://img.shields.io/badge/-Docker-141414?style=flat&logo=docker)
-![CockroachDB](https://img.shields.io/badge/-CockroachDB-141414?style=flat&logo=cockroachdb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-141414?style=flat&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-141414?style=flat&logo=mysql)
-![Kafka](https://img.shields.io/badge/-Kafka-141414?style=flat&logo=kafka)
-![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-141414?style=flat&logo=elasticsearch)
-![MongoDB](https://img.shields.io/badge/-MongoDB-141414?style=flat&logo=mongodb)
-![K8s](https://img.shields.io/badge/-K8s-141414?style=flat&logo=k8s)
-![Intellij Idea](https://img.shields.io/badge/-Intellij%20Idea-141414?style=flat&logo=intellij-idea)
+![React](https://img.shields.io/badge/-React-141414?style=for-the-badge&logo=react)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-141414?style=for-the-badge&logo=ubuntu)
+![Docker](https://img.shields.io/badge/-Docker-141414?style=for-the-badge&logo=docker)
+![CockroachDB](https://img.shields.io/badge/-CockroachDB-141414?style=for-the-badge&logo=cockroachdb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-141414?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-141414?style=for-the-badge&logo=mysql)
+![Kafka](https://img.shields.io/badge/-Kafka-141414?style=for-the-badge&logo=kafka)
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-141414?style=for-the-badge&logo=elasticsearch)
+![MongoDB](https://img.shields.io/badge/-MongoDB-141414?style=for-the-badge&logo=mongodb)
+![K8s](https://img.shields.io/badge/-K8s-141414?style=for-the-badge&logo=k8s)
+![Intellij Idea](https://img.shields.io/badge/-Intellij%20Idea-141414?style=for-the-badge&logo=intellij-idea)
 
 凡心所向，素履所往，生如逆旅，一葦以航。
 
