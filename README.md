@@ -44,25 +44,27 @@ Here are some ideas to get you started:
 Languages I use: <br>
 ![Go](https://img.shields.io/badge/-Go-141414?style=flat&logo=go)
 ![Dart](https://img.shields.io/badge/-Dart-141414?style=flat&logo=Dart)
-![RUST](https://img.shields.io/badge/-Rust-141414?style=flat&logo=rust)
+![Typescript](https://img.shields.io/badge/-Typescript-141414?style=flat&logo=typescript)
 ![Python](https://img.shields.io/badge/-Python-141414?style=flat&logo=python)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-141414?style=flat&logo=postgresql)
+![RUST](https://img.shields.io/badge/-Rust-141414?style=flat&logo=rust)
 ![Bash](https://img.shields.io/badge/-Bash-141414?style=flat&logo=gnu-bash)
 ![Markdown](https://img.shields.io/badge/-Markdown-141414?style=flat&logo=markdown)
 
 Tools & technologies I have worked with: <br>
 
+![Flutter](https://img.shields.io/badge/-Flutter-141414?style=flat&logo=Flutter)
+![VUE](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![React](https://img.shields.io/badge/-React-141414?style=flat&logo=react)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-141414?style=flat&logo=ubuntu)
+![Docker](https://img.shields.io/badge/-Docker-141414?style=flat&logo=docker)
 ![CockroachDB](https://img.shields.io/badge/-CockroachDB-141414?style=flat&logo=cockroachdb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-141414?style=flat&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-141414?style=flat&logo=mysql)
 ![Kafka](https://img.shields.io/badge/-Kafka-141414?style=flat&logo=kafka)
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-141414?style=flat&logo=elasticsearch)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-141414?style=flat&logo=mongodb)
-![Typescript](https://img.shields.io/badge/-Typescript-141414?style=flat&logo=typescript)
-![Flutter](https://img.shields.io/badge/-Flutter-141414?style=flat&logo=Flutter)
-![React](https://img.shields.io/badge/-React-141414?style=flat&logo=react)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-141414?style=flat&logo=ubuntu)
-![Docker](https://img.shields.io/badge/-Docker-141414?style=flat&logo=docker)
 ![K8s](https://img.shields.io/badge/-K8s-141414?style=flat&logo=k8s)
 ![Intellij Idea](https://img.shields.io/badge/-Intellij%20Idea-141414?style=flat&logo=intellij-idea)
 
