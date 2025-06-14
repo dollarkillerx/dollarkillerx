@@ -68,15 +68,6 @@ Tools & technologies I have worked with: <br>
 ![K8s](https://img.shields.io/badge/-K8s-141414?style=for-the-badge&logo=k8s)
 ![Intellij Idea](https://img.shields.io/badge/-Intellij%20Idea-141414?style=for-the-badge&logo=intellij-idea)
 
-凡心所向，素履所往，生如逆旅，一葦以航。
-
-三月桃花，四月歡唱，兩人一馬，明日故鄉。
-
-流浪陌路，暖然緋涼，寫意人生，相識一場。
-
-不關此世，不負己心，我自傾杯，且君隨意。
-
-
 ### 💻 Projects
 - <a href = "https://github.com/dollarkillerx/vodka">vodka</a> Lightweight golang microservices framework.
 - <a href = "https://github.com/dollarkillerx/light">light</a> LightRPC Encrypted reliable components RPC.
